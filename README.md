@@ -408,5 +408,4 @@ If the `view_images` app doesn't work, the most common issue is that the GPU com
 4. The demo starts with you being able to chat with STRETCH robot. To activate the pick and place demo, you will need to say or type "pick and place demo" as this is hard coded in the demo.
 5. After pick and place demo sequence is initiated try giving a command like "pick up the bottle and place it on the table".
 
-
- <iframe width="560" height="315" src="https://uofi.box.com/s/z17qanjpvfsburltnl2xchyvrimqwanz" frameborder="0" allowfullscreen></iframe>
+Demo example [here](https://uofi.app.box.com/file/1847915272622?s=z17qanjpvfsburltnl2xchyvrimqwanz)
