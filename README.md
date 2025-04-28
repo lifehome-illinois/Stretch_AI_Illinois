@@ -15,7 +15,7 @@ Memory : 16GB DDR5-4800 SO-DIMM
 
 ## 2. Setting Up Your System
 
-OS : Ubuntu 20.04
+OS : Ubuntu 22.04
 
 CUDA: 12.4
 
